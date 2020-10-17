@@ -1,0 +1,1 @@
+<?php$pageName = basename($_SERVER['PHP_SELF']);if($pageName == "index.php")	{	echo "Admin : World Empower";	}if($pageName == "faculty.php")	{	echo "Franchise";	}	if($pageName == "gallery.php")	{	echo "Gallery";	}	if($pageName == "videos.php")	{	echo "Videos";	}if($pageName == "customers.php")	{	echo "Satisfied Customers";	}	?>
