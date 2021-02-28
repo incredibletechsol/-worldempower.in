@@ -1,6 +1,6 @@
 <?php
 $txpcfg['db'] = 'siddhesh_txtp969';
-$txpcfg['user'] = 'siddhesh_txtp969';
+$txpcfg['user'] = 'siddhesh_siddhesh';
 $txpcfg['pass'] = 'pM28]S.UWjM28![!';
 $txpcfg['host'] = 'localhost';
 $txpcfg['table_prefix'] = 'txplb_';
